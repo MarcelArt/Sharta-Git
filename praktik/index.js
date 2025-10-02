@@ -1,12 +1,9 @@
 const main = () => {
+    const world = "world";
     const hello = "hello";
-    console.log(`${hello} world`);
+    console.log(`${hello} ${world}`);
 
-    const a = 5;
-    const b = 10;
-    console.log(a, b);
-    [b, a] = [a, b];
-    console.log(a, b);
+    console.log('Hello from praktik!');
 }
 
 main();
