@@ -1,5 +1,6 @@
 const main = () => {
-    console.log("Hello from praktik!");
+    const hello = "hello";
+    console.log(`${hello} world`);
 }
 
 main();
