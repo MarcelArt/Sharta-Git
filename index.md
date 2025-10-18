@@ -1,8 +1,8 @@
 ---
 marp: true
-theme: uncover
-class: 
-    - invert
+theme: rose-pine-moon
+# class: 
+#     - invert
 ---
 
 # Git Branching Strategy
